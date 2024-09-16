@@ -11,6 +11,6 @@ implementation of mkdir() system call
 
 compile: cc Directory_Create.c
 
-run : ./a.out Demo    // abcdef is folder/directory name
+run : ./a.out Demo    // Demo is folder/directory name
 
 
